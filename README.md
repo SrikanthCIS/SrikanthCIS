@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Srikanth
 
-- 🔭 I’m currently working on a ED Tech Platform and an On Demand Platform
+- 🔭 I’m currently working on a Clinical Research application.
 - 🌱 I’m currently learning Angular and PostgreSQL
 - 💬 Ask me about anything
 - 📫 How to reach me: srikanth.jeeva1997@gmail.com
