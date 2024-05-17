@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Srikanth
 
-- 🔭 I’m currently working on a Clinical Research application.
-- 🌱 I’m currently learning Angular and PostgreSQL
+- 🔭 I’m currently working on a Clinical Research Tools.
+- 🌱 I’m currently learning Angular & NestJs.
 - 💬 Ask me about anything
 - 📫 How to reach me: srikanth.jeeva1997@gmail.com
 
